@@ -3,7 +3,7 @@
 **Descripción**  
 Proyecto para practicar Git y GitHub: estructura HTML básica y trabajo por ramas.
 
-## Tabla de contenidoS
+## Tabla de contenidos
 - [Instalación](#instalación)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Mejoras implementadas](#mejoras-implementadas)
